@@ -28,6 +28,7 @@
 
   .main-header img {
     max-width: 150px;
+    border-radius: 50%;
   }
 
   nav {
